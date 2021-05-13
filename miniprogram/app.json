@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/work/work",
+    "pages/experience/datapre/datapre",
+    "pages/experience/feature/feature",
+    "pages/experience/RF/RF",
+    "pages/experience/result/result"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+
+      {
+        "pagePath": "pages/work/work",
+        "text": "报告",
+        "iconPath": "images/guide.png",
+        "selectedIconPath": "images/guide_filled.png"
+      },
+      {
+        "pagePath": "pages/experience/datapre/datapre",
+        "text": "实验",
+        "iconPath": "images/info.png",
+        "selectedIconPath": "images/info_filled.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

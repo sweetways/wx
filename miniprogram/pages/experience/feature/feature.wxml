@@ -1,0 +1,8 @@
+<view class="titleContainer">
+  <text class="big-title">2.特征提取</text>
+</view>
+<view>
+  <form bindsubmit='formsubmit'>
+     <button form-type='submit'>{{app.globalData.output_fileName}}点击进行特征处理</button>
+  </form>
+</view>

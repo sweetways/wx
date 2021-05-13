@@ -1,0 +1,8 @@
+<view class="titleContainer">
+  <text class="big-title">3.选择机器学习算法</text>
+</view>
+<view>
+  <form bindsubmit='formsubmit'>
+     <button form-type='submit'>RF</button>
+  </form>
+</view>

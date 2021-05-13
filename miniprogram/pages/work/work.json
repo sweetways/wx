@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "ec-canvas": "../../ec-canvas/ec-canvas"
+   },
+  "navigationBarTitleText": "轴承实时运行健康状况"
+}
